@@ -1,20 +1,25 @@
 name: Sync to Hugging Face hub
+
 on:
   push:
     branches: [main]
 
-  # to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
   sync-to-hub:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
           lfs: true
-      - name: Push to hub
+
+      - name: Push to HuggingFace Space
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN_FR }}
-        run: git push --force https://AI-Solutions-KK:$HF_TOKEN_FR@huggingface.co/spaces/AI-Solutions-KK/face_recognition/ main
+          HF_TOKEN: ${{ secrets.HFTOKEN_FR }}   # MUST MATCH YOUR SECRET EXACTLY
+        run: |
+          git lfs install
+          git remote add hf https://AI-Solutions-KK:${HF_TOKEN}@huggingface.co/spaces/AI-Solutions-KK/face_recognition
+          git push --force hf main
