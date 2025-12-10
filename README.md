@@ -1,3 +1,10 @@
+
+
+![Project Demo App Snap_Shot](Shot.png)
+![Project Demo App Snap_Shot](Shot1.png)
+![Project Demo App Snap_Shot](Shot3.png)
+
+
 # 🎭 Advanced Face Recognition System with Transfer Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -199,7 +206,7 @@ Interpretation: Excellent separation (AUC=0.987)
 ╔═══════════════════════════════════════════════════════════════╗
 ║                      PREDICTION SUMMARY                       ║
 ╠═══════════════════════════════════════════════════════════════╣
-║  Total Images Processed:     17,486                          ║
+║  Total Images Processed:     17,486                           ║
 ║  ✅ Correct Predictions:      17,442 (99.75%)                ║
 ║  ❌ Wrong Predictions:            44 (0.25%)                 ║
 ║  ⚠️  Failed Detections:            48 (0.27%)                ║
@@ -312,8 +319,8 @@ Standard Deviation: 14.2%
 │  80-90%            │   3,247  │    18.6%     │ ████         │
 │  70-80%            │   1,342  │     7.7%     │ ██           │
 │  60-70%            │     295  │     1.7%     │ ▌            │
-│  50-60%            │      88  │     0.5%     │ ▎            │
-│  < 50%             │      56  │     0.3%     │ ▏            │
+│  50-60%            │      88  │     0.5%     │ ▎           │
+│  < 50%             │      56  │     0.3%     │ ▏           │
 └────────────────────┴──────────┴──────────────┴──────────────┘
 
 Distribution Shape: Right-skewed (most predictions high confidence)
@@ -2058,21 +2065,7 @@ Want to join? See CONTRIBUTING.md
    Stack Overflow: Tag [face-recognition-system]
 ```
 
-### **Stay Updated**
-```
-📰 Newsletter
-   Subscribe: https://face-recognition-system.io/newsletter
-   Frequency: Monthly updates, new features
-   
-🐦 Social Media
-   Twitter: @FaceRecogSystem
-   LinkedIn: Company/FaceRecognitionSystem
-   YouTube: FaceRecognitionSystem (tutorials)
-   
-📝 Blog
-   Technical Blog: https://blog.face-recognition-system.io
-   Topics: Tutorials, case studies, best practices
-   
+
 ⭐ GitHub
    Star us: https://github.com/yourusername/face-recognition-system
    Watch for updates
