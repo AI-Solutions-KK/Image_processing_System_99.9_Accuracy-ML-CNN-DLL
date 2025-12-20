@@ -1,0 +1,14 @@
+data\pins_face_recognition\pins_Eliza Taylor\Eliza Taylor202_775.jpg
+data\pins_face_recognition\pins_Elizabeth Lail\Elizabeth Lail102_1055.jpg
+data\pins_face_recognition\pins_Elizabeth Lail\Elizabeth Lail102_1056.jpg
+data\pins_face_recognition\pins_Elizabeth Lail\Elizabeth Lail194_1117.jpg
+data\pins_face_recognition\pins_Emilia Clarke\Emilia Clarke78_1050.jpg
+data\pins_face_recognition\pins_Emma Stone\Emma Stone73_1817.jpg
+data\pins_face_recognition\pins_Jeremy Renner\Jeremy Renner175_2634.jpg
+data\pins_face_recognition\pins_Johnny Depp\Johnny Depp23_1863.jpg
+data\pins_face_recognition\pins_Johnny Depp\Johnny Depp42_1892.jpg
+data\pins_face_recognition\pins_barbara palvin\barbara palvin158_800.jpg
+data\pins_face_recognition\pins_jeff bezos\jeff bezos112_2049.jpg
+data\pins_face_recognition\pins_jeff bezos\jeff bezos12_2052.jpg
+data\pins_face_recognition\pins_jeff bezos\jeff bezos160_2068.jpg
+data\pins_face_recognition\pins_jeff bezos\jeff bezos178_2073.jpg

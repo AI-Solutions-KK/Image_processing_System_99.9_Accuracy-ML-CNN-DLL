@@ -1,0 +1,22 @@
+class_name,correct_count,total_count,accuracy,wrong_count
+pins_Adriana Lima,213,213,1.0,0
+pins_Ben Affleck,126,126,1.0,0
+pins_Bill Gates,122,122,1.0,0
+pins_Chris Evans,166,166,1.0,0
+pins_Danielle Panabaker,181,181,1.0,0
+pins_Eliza Taylor,161,161,1.0,0
+pins_Elizabeth Lail,155,155,1.0,0
+pins_Emilia Clarke,209,209,1.0,0
+pins_Emma Stone,138,138,1.0,0
+pins_Jake Mcdorman,159,159,1.0,0
+pins_Jason Momoa,184,184,1.0,0
+pins_Jennifer Lawrence,180,180,1.0,0
+pins_Jeremy Renner,166,166,1.0,0
+pins_barbara palvin,196,196,1.0,0
+pins_Jimmy Fallon,113,113,1.0,0
+pins_Johnny Depp,180,180,1.0,0
+pins_Karan Kamble,129,129,1.0,0
+pins_jeff bezos,102,102,1.0,0
+pins_barack obama,119,119,1.0,0
+pins_Emma Watson,210,211,0.995260663507109,1
+pins_Jessica Barden,139,141,0.9858156028368794,2
