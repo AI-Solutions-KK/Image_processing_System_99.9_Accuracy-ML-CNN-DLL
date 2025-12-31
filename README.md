@@ -2,7 +2,6 @@
 
 ![Project Demo App Snap_Shot](Shot.png)
 ![Project Demo App Snap_Shot](Shot1.png)
-![Project Demo App Snap_Shot](Shot3.png)
 
 
 # 🎭 Advanced Face Recognition System with Transfer Learning
