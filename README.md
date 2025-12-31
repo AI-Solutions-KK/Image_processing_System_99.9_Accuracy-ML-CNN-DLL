@@ -1,10 +1,16 @@
 
+ Face Recognition System
+---
+Live app link 
+- https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/
+
+---
+Project App Snap_Shots
 
 ![Project Demo App Snap_Shot](Shot.png)
 ![Project Demo App Snap_Shot](Shot1.png)
 
-
-# 🎭 Advanced Face Recognition System with Transfer Learning
+# 🎭 Advanced Face Recognition System 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
