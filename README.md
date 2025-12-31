@@ -1,5 +1,29 @@
 
  Face Recognition System
+
+ # 🎭 Advanced Face Recognition System (Production-Ready)
+
+A high-accuracy **face recognition system (99.75%)** built using  
+**MTCNN + InceptionResnetV1 (VGGFace2) + SVM**, optimized for **real-world deployment**.
+
+🚀 **Live App**:  
+https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/
+
+📌 **Key Highlights**
+- 99.75% accuracy with only ~150 images per person
+- Smart embedding-level augmentation (perfect class balance)
+- Dual inference: **SVM (accuracy)** + **Centroid (speed)**
+- Open-set recognition (unknown person detection)
+- Fully local, privacy-friendly, production-ready pipeline
+
+📊 Includes:
+- Detailed evaluation reports
+- Confusion matrix & ROC analysis
+- Failure analysis & confidence distribution
+- Incremental training support
+
+⬇️ Scroll below for full architecture, results, and usage.
+
 ---
 Live app link 
 - https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/
