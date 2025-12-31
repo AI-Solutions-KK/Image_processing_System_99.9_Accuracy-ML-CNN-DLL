@@ -25,9 +25,8 @@ https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/
 ⬇️ Scroll below for full architecture, results, and usage.
 
 ---
-Live app link 
-- https://facerecognition-tq32v5qkt4ltslejzwymw8.streamlit.app/
-
+Repo link 
+- https://github.com/AI-Solutions-KK/Image_processing_System_99.9_Accuracy-ML-CNN-DLL.git
 ---
 Project App Snap_Shots
 
